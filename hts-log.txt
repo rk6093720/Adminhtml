@@ -1,0 +1,102 @@
+HTTrack3.49-2 launched on Wed, 08 May 2024 17:11:24 at http://https://adminlte.io/themes/v3/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://adminlte.io/themes/v3/index.html -O "/home/manish//mcdc" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:15:19	Error: 	"Not Found" (404) at link https://adminlte.io/themes/v3/pages/layout/index3.html (from https://adminlte.io/themes/v3/pages/layout/top-nav.html)
+17:15:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jquery/jquery.min.js
+17:15:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jquery-ui/jquery-ui.min.js
+17:15:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/bootstrap/js/bootstrap.bundle.min.js
+17:15:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/chart.js/Chart.min.js
+17:15:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jqvmap/jquery.vmap.min.js
+17:15:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jqvmap/maps/jquery.vmap.usa.js
+17:15:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/sparklines/sparkline.js
+17:15:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jquery-knob/jquery.knob.min.js
+17:15:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/daterangepicker/daterangepicker.js
+17:15:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/moment/moment.min.js
+17:15:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js
+17:15:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/summernote/summernote-bs4.min.js
+17:15:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/dist/js/adminlte.js?v=3.2.0
+17:15:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js
+17:15:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/dist/js/demo.js
+17:15:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/dist/js/pages/dashboard.js
+17:15:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/dist/js/pages/dashboard3.js
+17:15:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jquery-mapael/jquery.mapael.min.js
+17:15:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/raphael/raphael.min.js
+17:15:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jquery-mapael/maps/usa_states.min.js
+17:15:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/dist/js/pages/dashboard2.js
+17:15:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/dist/js/adminlte.min.js?v=3.2.0
+17:15:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/flot/jquery.flot.js
+17:15:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/flot/plugins/jquery.flot.pie.js
+17:15:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/uplot/uPlot.iife.min.js
+17:15:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/ion-rangeslider/js/ion.rangeSlider.min.js
+17:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/bootstrap-slider/bootstrap-slider.min.js
+17:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/sweetalert2/sweetalert2.min.js
+17:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/toastr/toastr.min.js
+17:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/bs-custom-file-input/bs-custom-file-input.min.js
+17:15:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/select2/js/select2.full.min.js
+17:15:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/inputmask/jquery.inputmask.min.js
+17:15:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/bootstrap4-duallistbox/jquery.bootstrap-duallistbox.min.js
+17:15:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/bootstrap-switch/js/bootstrap-switch.min.js
+17:15:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/bs-stepper/js/bs-stepper.min.js
+17:15:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.min.js
+17:15:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/dropzone/min/dropzone.min.js
+17:15:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/codemirror/mode/css/css.js
+17:15:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/codemirror/codemirror.js
+17:15:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/codemirror/mode/htmlmixed/htmlmixed.js
+17:15:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jquery-validation/jquery.validate.min.js
+17:15:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/codemirror/mode/xml/xml.js
+17:15:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jquery-validation/additional-methods.min.js
+17:15:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js
+17:15:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables/jquery.dataTables.min.js
+17:15:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables-responsive/js/dataTables.responsive.min.js
+17:15:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables-responsive/js/responsive.bootstrap4.min.js
+17:15:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables-buttons/js/dataTables.buttons.min.js
+17:15:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/pdfmake/vfs_fonts.js
+17:15:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/pdfmake/pdfmake.min.js
+17:15:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jszip/jszip.min.js
+17:16:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables-buttons/js/buttons.print.min.js
+17:16:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables-buttons/js/buttons.html5.min.js
+17:16:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/datatables-buttons/js/buttons.colVis.min.js
+17:16:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jsgrid/demos/db.js
+17:16:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fullcalendar/main.js
+17:16:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/jsgrid/jsgrid.min.js
+17:16:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/300/FF0000/FFFFFF?text=3
+17:16:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/1200/FF0000/FFFFFF.png?text=4
+17:16:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/300/FF0000/FFFFFF?text=4
+17:16:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/300/000000?text=8
+17:16:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/1200/000000.png?text=8
+17:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/1200/FF0000/FFFFFF.png?text=9
+17:16:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/1200/FFFFFF.png?text=10
+17:16:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/300/FFFFFF?text=10
+17:16:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/300/FFFFFF?text=11
+17:16:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/1200/FFFFFF.png?text=11
+17:16:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/ekko-lightbox/ekko-lightbox.min.js
+17:16:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/1200/000000.png?text=12
+17:16:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/300/000000?text=12
+17:16:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/filterizr/jquery.filterizr.min.js
+17:16:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+17:16:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/pace-progress/pace.min.js
+17:16:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-brands-400.eot?
+17:16:26	Error: 	"Bad Request" (400) at link https://adminlte.io/cdn-cgi/zaraz/s.js?z= (from https://adminlte.io/themes/v3/index.html)
+17:16:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-brands-400.eot
+17:16:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-regular-400.eot
+17:16:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-brands-400.ttf
+17:16:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-regular-400.eot?
+17:16:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-solid-900.eot
+17:16:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-regular-400.ttf
+17:16:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-solid-900.eot?
+17:16:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/fontawesome-free/webfonts/fa-solid-900.ttf
+17:16:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/summernote/font/summernote.eot?
+17:16:40	Warning: 	HTML file (30136 bytes) retransferred due to lack of cache: https://adminlte.io/themes/v3/pages/layout/index3.html
+17:16:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://adminlte.io/themes/v3/plugins/summernote/font/summernote.ttf
+17:16:42	Error: 	"Not Found" (404) at link https://adminlte.io/themes/v3/pages/layout/index3.html (from https://adminlte.io/themes/v3/pages/layout/top-nav.html)
+17:16:42	Error: 	"Not Found" (404) at link https://adminlte.io/themes/v3/plugins/simplemde/simplemde.min.css (from https://adminlte.io/themes/v3/pages/forms/editors.html)
+17:16:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://via.placeholder.com/300/FF0000/FFFFFF?text=9
+17:26:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://adminlte.io/themes/v3/plugins/flag-icon-css/flags/4x3/ru.svg (from https://adminlte.io/themes/v3/plugins/flag-icon-css/css/flag-icon.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 38 seconds : 762 links scanned, 853 files written (30365463 bytes overall) [11918434 bytes received at 13574 bytes/sec], 24178541 bytes transferred using HTTP compression in 774 files, ratio 33%, 15.5 requests per connection
+(4 errors, 87 warnings, 0 messages)
